@@ -3,4 +3,4 @@ dataset/
 dataset_extraido/
 *.zip
 .ipynb_checkpoints/
-best_model.pt
+dataset_ej3/
